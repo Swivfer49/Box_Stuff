@@ -1,0 +1,3 @@
+Position 129 965
+Spawn 50.0 950.0
+DoubleJumps 1
